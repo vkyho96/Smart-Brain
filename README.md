@@ -7,3 +7,5 @@ css3 pattern gallery
 
 
 Particles.js - React Component
+
+clarifai for face recognition 
